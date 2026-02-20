@@ -16,7 +16,7 @@
 ## Best Strategy
 
 1. Get `external_url` + `full_name` from IG web_profile_info
-2. Filter for `facebook.com`, `shop.com`, brand-specific URLs
+2. Filter for `facebook.com` or brand-affiliated e-commerce URLs
 3. Search FB pages by relevant keywords
 4. FB ecosystem is typically weaker than IG for influencer discovery
 
